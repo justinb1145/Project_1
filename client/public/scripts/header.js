@@ -26,6 +26,6 @@ headerContainer.appendChild(headerLeft);
 headerContainer.appendChild(headerRight);
 
 header.appendChild(headerContainer);
-header.appendChild(homeButton);
+
 
 
