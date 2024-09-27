@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 const router = express.Router();
 
 router.get('/', (req, res) => {
-    res.status(200).json(giftData)
+    res.status(200).json(giftData[0])
   });
 
 router.get('/:giftId', (req, res) => {
