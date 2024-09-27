@@ -15,8 +15,8 @@ headerTitle.textContent = 'UnEarthed';
 const headerRight = document.createElement('div');
 headerRight.className = 'header-right';
 
-const headerButton = document.createElement('Home');
-headerButton.textContent = 'Home';
+const homeButton = document.createElement('button');
+homeButton.className = 'home-button';
 
 headerButton.addEventListener('click', function handleClick(event) {
     window.location = '/'
