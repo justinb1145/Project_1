@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img alt="YAP" src="https://i.imgur.com/a/NIws5xe.gif">
+<img alt="alt" src="https://i.imgur.com/a/NIws5xe">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
